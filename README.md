@@ -1,7 +1,9 @@
 
 # unity-poker-flash
 扑克牌铺满又散去的unity过场动画
+参考游戏《Fortune-499》过场动画元素，模拟仿制的。
 
+![PokerFlash](https://github.com/IIzzaya/unity-poker-flash/blob/master/Static/PokerFlash.gif)
 
 ## FlashController 可调参数
 
