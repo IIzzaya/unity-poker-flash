@@ -1,0 +1,9 @@
+.vs
+.vscode
+Library
+obj
+Temp
+unity-poker-flash.sln
+Assembly-CSharp.csproj
+*.DS_Store
+*.pyc
